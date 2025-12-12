@@ -38,7 +38,7 @@ if __name__ == "__main__":
     print("\n=== Aumentando velocidad ===")
     mi_coche.aumentar_velocidad(30)
     mi_coche.aumentar_velocidad(20)
-    
+    #
     print("\n=== Reduciendo velocidad ===")
     mi_coche.reducir_velocidad(25)
     mi_coche.reducir_velocidad(30)  
