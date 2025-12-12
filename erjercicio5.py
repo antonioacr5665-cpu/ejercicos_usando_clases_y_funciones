@@ -6,7 +6,7 @@ class Estudiante:
             self.calificaciones = []
         else:
             self.calificaciones = calificaciones
-    
+    #
     def agregar_calificacion(self, calificacion):
         """Agrega una nueva calificación al estudiante"""
         if 0 <= calificacion <= 100:  # Validar rango típico (0-100)
